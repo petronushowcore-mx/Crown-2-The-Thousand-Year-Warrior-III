@@ -1,0 +1,94 @@
+{
+  "kind": "earlier compilation record; byte-matched reuse, no new compilation",
+  "raw_report_sha256": "6b4b108fc7b4bd32baadef51a6af82aba8f91c83e0b004140a88c9a404cafe41",
+  "toolchain": "leanprover/lean4:v4.36.0-rc2",
+  "mathlib": "9d581dfff2e41de989072ea63abf3daf69311520",
+  "files": [
+    {
+      "name": "C2.lean",
+      "sha256": "3baf878711a05d313b089826a064856cde1add2b3fafd197502811e522351fad",
+      "errors": 0,
+      "sorry_warnings": 0,
+      "declarations": [
+        {
+          "name": "CrownC2.mixedFibre",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.seamControl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.tDoesNotFactor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.cancelledTotalDoesNotFactor",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.budgetDoesNotDecideSeams",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.wordDoesDecide",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.prefixControl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.noFinitePrefixDecides",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.noCoarserSliceDecides",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.fullEventRecordDecides",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.deterministicTailControl",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.pastBudget",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        },
+        {
+          "name": "CrownC2.killedClassCollision",
+          "verdict": "PROVED",
+          "reason": "",
+          "lean_check": "PROVED"
+        }
+      ]
+    }
+  ]
+}

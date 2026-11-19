@@ -1,0 +1,23 @@
+{
+  "schema": 1,
+  "kind": "source identity, not scientific acceptance",
+  "files": {
+    "LICENSE-code.txt": "1eebd6c2e18e6a99f2775ee4c7ef3fef2c31b9c5ea0c9bf9ccb20be73169c719",
+    "README.md": "94bd65a1b4a841adcc49f26faf9d86a12f6543f3c5c80aa46caa0be96f16a8b7",
+    "TYW-III-EN.md": "476591eeca5c94d2dd9842ac546f7707e5349ea9d3b66c76b063232aaf3d8908",
+    "break_harness.py": "96969e85c48dbd2e969f2e995c63cd6c645a85c027c61b2cc0c0336e7c1ef9d1",
+    "deep/README.md": "c28472f2b45afff9d25ba4d95a52b939da661b1166b1f54d4e0ed9567900d6fa",
+    "deep/break_suite.py": "c8a883b5bf8ca7bfbd792a416f2ec2a3d7cc4ac12764d0b8f3046d59e7053a06",
+    "deep/map.json": "f72674b0d50957fe8fd7955666ce3754a7a849517affaaa59b23bc8115694617",
+    "deep/mutations.json": "d8323a2fe6132d2c6c142e60b9972f317dab0666f2ba191346f781f567a3c995",
+    "deep/relations.py": "f938bb4427217a5451bac35667a301ec409a4d1da51128ef42cf1f222b98db7c",
+    "deep/source-index.json": "978f84612b028489ececa99380313bc32d7aa39e63e4b53e2c0e8a06a3315271",
+    "deep/suite.py": "01e5ed4c4260e09c879a4a07cf7495f35a81180e8ed4c837b37224fc892d895d",
+    "harness.py": "49adc78e72e6bae8ba22888bf2505cfdc06833961018bbec3ea61b8f2b9189ed",
+    "lean/C2.lean": "3baf878711a05d313b089826a064856cde1add2b3fafd197502811e522351fad",
+    "lean/README.md": "dbe3284c94efa6bb187cfa4885eba45bd618d44e587039745b871ffff8f1b72d",
+    "lean/compilation-record.json": "cab2a9ea620d0e93b87a5a2856c6b4b76cbc32f0bb95f7c7d3c2fbc7143783d4",
+    "lean/lakefile.toml": "9dcd4a62edb37d0fb2d54692161f46cb71ba73e8c9473b7b1b69dc3edcae1e8a",
+    "lean/lean-toolchain": "11c697aebe5b539d74f5069e497a588e7dfab1c4eeb74313f28357e351c55ca3"
+  }
+}

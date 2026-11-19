@@ -1,0 +1,7 @@
+name = "mirrors"
+defaultTargets = []
+
+[[require]]
+name = "mathlib"
+scope = "leanprover-community"
+rev = "9d581dfff2e41de989072ea63abf3daf69311520"

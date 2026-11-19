@@ -1,0 +1,836 @@
+{
+  "schema": 2,
+  "sources": {
+    "mirrors": {
+      "path": "mirrors/Mirrors-of-Whole-Trajectories.md",
+      "sha256": "87cd2e704c1cfe554464b140b50d537532f8d4a6827305cd3e23c84588acd145"
+    },
+    "warrior-en": {
+      "path": "warrior-iii/TYW-III-EN.md",
+      "sha256": "476591eeca5c94d2dd9842ac546f7707e5349ea9d3b66c76b063232aaf3d8908"
+    },
+    "body": {
+      "path": "body-iv/Body-IV-EN.md",
+      "sha256": "0eb52fcc8ed0a65d152795b769a5345083e3dbbe5135b0ad4f13374a2ef41cc8"
+    }
+  },
+  "claims": [
+    {
+      "id": "M1",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 82,
+      "line_end": 82,
+      "quote_sha256": "9ac71f55d0219d5e715c6532ca8e2846355f010980aea8c8ded4333fff323da1"
+    },
+    {
+      "id": "M2",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 152,
+      "line_end": 152,
+      "quote_sha256": "67701e139398389a122738381b2e047989acfdae93fdb2f6d903e419311946e5"
+    },
+    {
+      "id": "M3",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 253,
+      "line_end": 253,
+      "quote_sha256": "d15bd456a70a70c01c5bda87cf833638a4c7001f6b84976b4602f73284e5a008"
+    },
+    {
+      "id": "M4",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 391,
+      "line_end": 391,
+      "quote_sha256": "58ebd4f5d04a2a726fb2d663456a46ffe06c045efc153379246e39dd0e68ff9d"
+    },
+    {
+      "id": "M5",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 416,
+      "line_end": 416,
+      "quote_sha256": "cccc7abd6e708509e1020943e0c9bfc7d4d8084e2ebaf24463d3efdd746a2083"
+    },
+    {
+      "id": "M6",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 431,
+      "line_end": 431,
+      "quote_sha256": "2ab6dc4175e313589de37bd1948b99b68204150995fe565e432d174a85fc57ae"
+    },
+    {
+      "id": "M7",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 688,
+      "line_end": 688,
+      "quote_sha256": "2aec52084fc5a72f33e435875869be2fdfcfdd781c5eb9f28d22f3ee78c9786b"
+    },
+    {
+      "id": "M8",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 700,
+      "line_end": 700,
+      "quote_sha256": "aff51e3c9a70d8dedfbb8bf7e849a3fc0fb63456613db1dd1cf6eb376c20a631"
+    },
+    {
+      "id": "M9",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 708,
+      "line_end": 708,
+      "quote_sha256": "f282c165cb6d011400a1654ca37633c76c35cc305e2d2a17d6620b6cf91ef52a"
+    },
+    {
+      "id": "M10",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 737,
+      "line_end": 737,
+      "quote_sha256": "bed0f11e2cac3a2753a30292027f4dded7976e847e2a982e7dd189ac469e7dad"
+    },
+    {
+      "id": "M11",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 757,
+      "line_end": 757,
+      "quote_sha256": "3cdf5f7bd2e3b3f6a451ba9c710f2b6d9ff91a2792f94f3db78d07f80218120e"
+    },
+    {
+      "id": "M12",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 761,
+      "line_end": 761,
+      "quote_sha256": "c8013560b42b878e9ebfc610ed9776d8f0f5d23bcdd75bb8bd06fae0338c7dc5"
+    },
+    {
+      "id": "M13",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 769,
+      "line_end": 769,
+      "quote_sha256": "f65fa2906fb57542dcca7ed1bd6d228ee56adf3974e62f4137e2cf5e365639a5"
+    },
+    {
+      "id": "M14",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 775,
+      "line_end": 775,
+      "quote_sha256": "f3530d047fe2c8beea6e0691badb5c912d0eed3901ea73e098d8adbb4e1541ee"
+    },
+    {
+      "id": "M15",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 787,
+      "line_end": 787,
+      "quote_sha256": "473969c59e56275f1ee1aa51ae8002327379acc14affeeb9f4379fb65d8e5ccd"
+    },
+    {
+      "id": "M16",
+      "source": "mirrors",
+      "kind": "conditional theorem",
+      "line_start": 801,
+      "line_end": 801,
+      "quote_sha256": "498bf229f97157d8c1bb82c58958b1ac2a31bb7e0228afa40fa735fe18eab6ce"
+    },
+    {
+      "id": "M-L10",
+      "source": "mirrors",
+      "kind": "formalisation scope",
+      "line_start": 39,
+      "line_end": 39,
+      "quote_sha256": "cbf47d6b01c56abda789594b4451524db103ef49556deeb38ee2c5d4a0377b56"
+    },
+    {
+      "id": "M-fixed-covector",
+      "source": "mirrors",
+      "kind": "exact preservation criterion",
+      "line_start": 609,
+      "line_end": 609,
+      "quote_sha256": "dc10de0558ce47debfc7b7fee3f1fe13954f248eac3945974dcca4e1ceab0679"
+    },
+    {
+      "id": "M-contact",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 563,
+      "line_end": 563,
+      "quote_sha256": "ad99df836f8186c234deb802cd0925033f7d809350220b2ffbb50bc35ce994f6"
+    },
+    {
+      "id": "M-shear",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 661,
+      "line_end": 661,
+      "quote_sha256": "3c0c0548dc6958c4abe156fbbb26cc6446c77bd4ede59e7e264817ac687c4e5e"
+    },
+    {
+      "id": "M-norm",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 663,
+      "line_end": 663,
+      "quote_sha256": "ce7aa1b3f91a9aa1917100c94063097c5723131db99c17dba4e7ec01d5328ab0"
+    },
+    {
+      "id": "M-signs",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 665,
+      "line_end": 665,
+      "quote_sha256": "9bd9c2ac5b244569aa5b56ccf0cbcf92efb7437e552360e1a3cc73c8f2284c77"
+    },
+    {
+      "id": "M-mean",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 667,
+      "line_end": 667,
+      "quote_sha256": "0c5893c7bd90b6f27ba16b7021649bc1de6f8e51cbd8824623cb511ccbfd96c7"
+    },
+    {
+      "id": "M-variance",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 668,
+      "line_end": 668,
+      "quote_sha256": "2bc2a1ec65d27ce54749b33bdaad74d77f969940c7b4f77caeae4bdb6e59bf51"
+    },
+    {
+      "id": "M-account",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 672,
+      "line_end": 672,
+      "quote_sha256": "482721979c65d779e33598a3b3f4d00cc59e190a5cfa830b9d3f2e5750b2c3d9"
+    },
+    {
+      "id": "M-charge",
+      "source": "mirrors",
+      "kind": "worked model",
+      "line_start": 676,
+      "line_end": 676,
+      "quote_sha256": "1740e70f9efc1aa6cf9912a462988cddb6838c4635ee0e49578571aa4063c900"
+    },
+    {
+      "id": "C1",
+      "source": "warrior-en",
+      "kind": "conditional or imported claim",
+      "line_start": 242,
+      "line_end": 242,
+      "quote": "**C1. Presence.** In every slice of a persisting line, the Unit and the witness are present in full: not as a fragment but whole, and the same throughout the line. *Imported, in declared classes, each for its own part:* the Unit on the active line (*The Crown*, §§5–6); the witness, whose period stays constant across windows when every transition of a switching schedule is tunnelled (*Identity Does Not Drift*, Lemma 4.2); an exactly constant identity coordinate in the separated state architecture (*The Physics of Abstraction*, Theorem 7.1). These are class-relative conventions and conditional preservation results, each with its own correspondence obligations; they do not by themselves certify an arbitrary realised system."
+    },
+    {
+      "id": "C2",
+      "source": "warrior-en",
+      "kind": "two proved particular cases for declared classes; for the shells no result is asserted",
+      "line_start": 244,
+      "line_end": 244,
+      "quote": "**C2. Visibility.** The boundary in the declaration record is readable by construction. This convention is distinct from the substantive question: does the selected slice decide transformation under load and continuation through the irreversible? Two particular answers are proved for declared classes. On the class A,B,A of *The Physics of Abstraction*, §3.2, the verdict that every seam is preserved does not factor through the last visible symbol together with the fixed preservation rule: the histories with labels (0,0) and (1,−1) share that reading, and even the sum of their labels, yet their verdicts differ. A second, distinct limitation concerns an open future. In *Mirrors of Whole Trajectories*, M11, the verdict that exactly N unit-cost events are eventually spent, N≥1, is not decided by any fixed finite prefix, nor by any observation that is a function of that prefix. The complete observed past is the same in the separating pair. This is future underdetermination on that class, not loss of past information by a compressed slice, and not a failure to decide whether a next continuation is currently allowed. For the shells of *The Crown*, the observation and the target must be fixed separately. Generator-relative openness factors through the line's activity and attained edge under the declared model (§§5–6). The crown term is defined only where that openness verdict is true. Preservation in a specified realised transition is evaluated from the declared identity history, realised family and continuer; the transition record of §15 supplies these data. Neither this record nor the full Crown state should be identified with the pair ⟨Unit, attained edge⟩. A verdict about which continuation will actually occur is a further question. For a specified restricted observation V, non-factorisation requires two histories of the same independently declared class with equal V and different target verdicts. No such result for the full shell model is asserted here; the question for the shells remains open. The class must be specified by its dynamics and input conditions, not by requiring the desired absence of a decoder (O2)."
+    },
+    {
+      "id": "C3",
+      "source": "warrior-en",
+      "kind": "conditional or imported claim",
+      "line_start": 250,
+      "line_end": 250,
+      "quote": "**C3. Certification.** A slice certifies identity exactly when its observation fibre is homogeneous (*The Physics of Abstraction*, Theorem 3.1). A slice together with its membership word certifies the declared identity verdict, provided the instrument is persistence-complete (*The Physics of Abstraction*, Corollary 5.5). So a point can certify identity when it gathers the record of its own path into itself. The complete membership record is a sufficient construction, not the only one: a compressed key also works if the declared verdict factors through it (C4). *A consequence of imported results; what is new is the reading “gathering = slice + membership record” as a sufficient construction.* Architectural constraint, after *The Physics of Abstraction*, §5.2, where the record may be retained by a non-causal audit: here it is held by such an audit, outside the optimization surface of the acting agent. The holder of this record, the external witness, is not the one who acts."
+    },
+    {
+      "id": "C4",
+      "source": "warrior-en",
+      "kind": "conditional or imported claim",
+      "line_start": 252,
+      "line_end": 252,
+      "quote": "**C4. Gathering and collapse.** For a declared pair (observation map V, verdict Q), a map from lines to points permits exact reading of Q if and only if its fibres are homogeneous for Q; a collapse relative to this pair is exactly a mixed fibre. When Q is an identity verdict, this is a criterion of certification, not a separate proof of physical preservation under transport. *The criterion is imported* (*The Physics of Abstraction*, Theorem 3.1; *The Double Fibre of Verification*: Q = q∘V if and only if Q is constant on the fibres of V). *New: the place of the criterion in the distinction between a record's temporal scope and its sufficiency.*"
+    },
+    {
+      "id": "C5",
+      "source": "warrior-en",
+      "kind": "conditional or imported claim",
+      "line_start": 262,
+      "line_end": 262,
+      "quote": "**C5. Bridge to cohomology.** Both the reading map and the verdict are declared here. Let \\(\\phi:M\\to M'\\) be the carrier-map, and let \\([\\eta]\\in H^1(M;\\mathbb R)\\), \\([\\eta']\\in H^1(M';\\mathbb R)\\) be the chosen witness classes. On the full real vector space \\(E=H_1(M;\\mathbb R)\\), put \\(a(\\gamma)=\\langle[\\eta],\\gamma\\rangle\\) and \\(r(\\gamma)=\\langle[\\eta'],\\phi_*\\gamma\\rangle\\), with \\(a\\ne0\\), and let \\(Q(\\gamma)=1[a(\\gamma)\\ne0]\\). Definition 4.1 of *Spin-Channel Bridge and Core-Reduction*, the formal companion to *ONTOΣ XV*, requires nonzero pairing to survive on every witness-bearing recurrent class. Here we separately consider its full-real-space extension: \\(a(\\gamma)\\ne0\\Rightarrow r(\\gamma)\\ne0\\) for every \\(\\gamma\\in E\\). For these linear functionals this is equivalent to \\(\\ker r\\subseteq\\ker a\\), hence to \\(a=cr\\) with \\(c\\ne0\\), and exactly then \\(Q\\) is constant on the fibres of \\(r\\): this is a special case of C4. The inclusion and \\(a\\ne0\\) imply \\(r\\ne0\\). Choosing \\(u\\) with \\(r(u)=1\\) then gives \\(\\gamma-r(\\gamma)u\\in\\ker r\\), hence \\(a(\\gamma)=a(u)r(\\gamma)\\), with \\(a(u)\\ne0\\). Conversely, homogeneity of the zero fibre and \\(Q(0)=0\\) give the kernel inclusion. This preserves nonzero pairing; equality of classes needs a separate condition, including a fixed scale."
+    },
+    {
+      "id": "C2-ABA",
+      "source": "warrior-en",
+      "kind": "proved particular case: the class A,B,A of The Physics of Abstraction, section 3.2",
+      "line_start": 244,
+      "line_end": 244,
+      "quote": "**C2. Visibility.** The boundary in the declaration record is readable by construction. This convention is distinct from the substantive question: does the selected slice decide transformation under load and continuation through the irreversible? Two particular answers are proved for declared classes. On the class A,B,A of *The Physics of Abstraction*, §3.2, the verdict that every seam is preserved does not factor through the last visible symbol together with the fixed preservation rule: the histories with labels (0,0) and (1,−1) share that reading, and even the sum of their labels, yet their verdicts differ. A second, distinct limitation concerns an open future. In *Mirrors of Whole Trajectories*, M11, the verdict that exactly N unit-cost events are eventually spent, N≥1, is not decided by any fixed finite prefix, nor by any observation that is a function of that prefix. The complete observed past is the same in the separating pair. This is future underdetermination on that class, not loss of past information by a compressed slice, and not a failure to decide whether a next continuation is currently allowed. For the shells of *The Crown*, the observation and the target must be fixed separately. Generator-relative openness factors through the line's activity and attained edge under the declared model (§§5–6). The crown term is defined only where that openness verdict is true. Preservation in a specified realised transition is evaluated from the declared identity history, realised family and continuer; the transition record of §15 supplies these data. Neither this record nor the full Crown state should be identified with the pair ⟨Unit, attained edge⟩. A verdict about which continuation will actually occur is a further question. For a specified restricted observation V, non-factorisation requires two histories of the same independently declared class with equal V and different target verdicts. No such result for the full shell model is asserted here; the question for the shells remains open. The class must be specified by its dynamics and input conditions, not by requiring the desired absence of a decoder (O2)."
+    },
+    {
+      "id": "C2-M11",
+      "source": "warrior-en",
+      "kind": "proved particular case: Mirrors M11, an open future",
+      "line_start": 244,
+      "line_end": 244,
+      "quote": "**C2. Visibility.** The boundary in the declaration record is readable by construction. This convention is distinct from the substantive question: does the selected slice decide transformation under load and continuation through the irreversible? Two particular answers are proved for declared classes. On the class A,B,A of *The Physics of Abstraction*, §3.2, the verdict that every seam is preserved does not factor through the last visible symbol together with the fixed preservation rule: the histories with labels (0,0) and (1,−1) share that reading, and even the sum of their labels, yet their verdicts differ. A second, distinct limitation concerns an open future. In *Mirrors of Whole Trajectories*, M11, the verdict that exactly N unit-cost events are eventually spent, N≥1, is not decided by any fixed finite prefix, nor by any observation that is a function of that prefix. The complete observed past is the same in the separating pair. This is future underdetermination on that class, not loss of past information by a compressed slice, and not a failure to decide whether a next continuation is currently allowed. For the shells of *The Crown*, the observation and the target must be fixed separately. Generator-relative openness factors through the line's activity and attained edge under the declared model (§§5–6). The crown term is defined only where that openness verdict is true. Preservation in a specified realised transition is evaluated from the declared identity history, realised family and continuer; the transition record of §15 supplies these data. Neither this record nor the full Crown state should be identified with the pair ⟨Unit, attained edge⟩. A verdict about which continuation will actually occur is a further question. For a specified restricted observation V, non-factorisation requires two histories of the same independently declared class with equal V and different target verdicts. No such result for the full shell model is asserted here; the question for the shells remains open. The class must be specified by its dynamics and input conditions, not by requiring the desired absence of a decoder (O2)."
+    },
+    {
+      "id": "C5-restricted-W0",
+      "source": "warrior-en",
+      "kind": "restricted witness domain",
+      "line_start": 264,
+      "line_end": 264,
+      "quote": "If only a predeclared nonempty set of cycles \\(W_0\\) with \\(a(\\gamma)\\ne0\\) is tested, use the reading domain \\(W_0\\cup\\{0\\}\\). The same criterion is equivalent to preservation on \\(W_0\\): every nonzero fibre is already homogeneous, while the zero fibre is mixed exactly when at least one selected pairing is lost. Without the zero cycle the verdict would be constantly one and the test would distinguish nothing. This restricted criterion does not establish proportionality on all of \\(E\\). The domain matters even for an infinite set: \\(a(x,y)=x\\) and \\(r(x,y)=x+\\sqrt2y\\) preserve every nonzero original pairing on \\(\\mathbb Z^2\\), because \\(r\\) has no nonzero integral kernel vector, yet \\(r(-\\sqrt2,1)=0\\) and \\(a(-\\sqrt2,1)\\ne0\\) on \\(\\mathbb R^2\\). The irrational example belongs to the real-coefficient extension and not to the integral or common-denominator rational witness class of *Identity Does Not Drift*, Proposition 5.1. If \\(r\\) is rational on a full lattice \\(\\Lambda\\) spanning \\(E\\), its lattice kernel spans its real kernel: a rational basis of \\(\\ker r\\) can be multiplied by denominators to lie in \\(\\Lambda\\). Hence \\(\\ker r\\cap\\Lambda\\subseteq\\ker a\\cap\\Lambda\\) is equivalent to \\(\\ker r\\subseteq\\ker a\\). This equivalence requires the whole lattice; restriction to a selected set of recurrent classes can still be weaker, even for rational data."
+    },
+    {
+      "id": "C5-selected-loss",
+      "source": "warrior-en",
+      "kind": "collapse on the declared witnesses",
+      "line_start": 266,
+      "line_end": 266,
+      "quote": "A collapse for this pair \\((r,Q)\\) occurs when a cycle with nonzero original pairing enters the kernel of the transported pairing and shares the zero reading with the zero cycle. This can occur under partial preservation as well as annihilation of all the declared witness-bearing pairings (*Spin-Channel Bridge and Core-Reduction*, Proposition 4.3); reduction through a contractible core is a canonical annihilating case (*ONTOΣ XV*, Structural Statement XV.3). A retained complete record of that transition can be a gathering for a different verdict, such as “the witness was lost”. It does not turn the destructive transport itself into a preserving one. *Imported: the transport regimes of the XV companion; new: their explicit connection to C4 for the named map, verdict and domain.*"
+    },
+    {
+      "id": "C5-global-loss",
+      "source": "warrior-en",
+      "kind": "annihilating transport",
+      "line_start": 266,
+      "line_end": 266,
+      "quote": "A collapse for this pair \\((r,Q)\\) occurs when a cycle with nonzero original pairing enters the kernel of the transported pairing and shares the zero reading with the zero cycle. This can occur under partial preservation as well as annihilation of all the declared witness-bearing pairings (*Spin-Channel Bridge and Core-Reduction*, Proposition 4.3); reduction through a contractible core is a canonical annihilating case (*ONTOΣ XV*, Structural Statement XV.3). A retained complete record of that transition can be a gathering for a different verdict, such as “the witness was lost”. It does not turn the destructive transport itself into a preserving one. *Imported: the transport regimes of the XV companion; new: their explicit connection to C4 for the named map, verdict and domain.*"
+    },
+    {
+      "id": "C5-exact-scale-contrast",
+      "source": "warrior-en",
+      "kind": "scope contrast: nonzero pairing, not equality of classes",
+      "line_start": 262,
+      "line_end": 262,
+      "quote": "**C5. Bridge to cohomology.** Both the reading map and the verdict are declared here. Let \\(\\phi:M\\to M'\\) be the carrier-map, and let \\([\\eta]\\in H^1(M;\\mathbb R)\\), \\([\\eta']\\in H^1(M';\\mathbb R)\\) be the chosen witness classes. On the full real vector space \\(E=H_1(M;\\mathbb R)\\), put \\(a(\\gamma)=\\langle[\\eta],\\gamma\\rangle\\) and \\(r(\\gamma)=\\langle[\\eta'],\\phi_*\\gamma\\rangle\\), with \\(a\\ne0\\), and let \\(Q(\\gamma)=1[a(\\gamma)\\ne0]\\). Definition 4.1 of *Spin-Channel Bridge and Core-Reduction*, the formal companion to *ONTOΣ XV*, requires nonzero pairing to survive on every witness-bearing recurrent class. Here we separately consider its full-real-space extension: \\(a(\\gamma)\\ne0\\Rightarrow r(\\gamma)\\ne0\\) for every \\(\\gamma\\in E\\). For these linear functionals this is equivalent to \\(\\ker r\\subseteq\\ker a\\), hence to \\(a=cr\\) with \\(c\\ne0\\), and exactly then \\(Q\\) is constant on the fibres of \\(r\\): this is a special case of C4. The inclusion and \\(a\\ne0\\) imply \\(r\\ne0\\). Choosing \\(u\\) with \\(r(u)=1\\) then gives \\(\\gamma-r(\\gamma)u\\in\\ker r\\), hence \\(a(\\gamma)=a(u)r(\\gamma)\\), with \\(a(u)\\ne0\\). Conversely, homogeneity of the zero fibre and \\(Q(0)=0\\) give the kernel inclusion. This preserves nonzero pairing; equality of classes needs a separate condition, including a fixed scale."
+    },
+    {
+      "id": "W-paid",
+      "source": "warrior-en",
+      "kind": "worked model",
+      "line_start": 392,
+      "line_end": 392,
+      "quote": "This thought has a short mathematical support [K3t]. In a declared model, a transition followed by its inverse returns the selected state exactly. If each of the two steps costs \\(\\varepsilon>0\\) on the same bearer and in the same non-resetting burden account, the account after the return reads \\(b+2\\varepsilon\\), rather than the earlier \\(b\\). With finite capacity, the inverse step must still be affordable. This is a conditional model, not a measurement of a warrior's life or a certificate of his identity. It poses a precise question: which parts of a journey can be reversed, and which must be carried onward even after returning."
+    },
+    {
+      "id": "N1",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 40,
+      "line_end": 40,
+      "quote_sha256": "3c2a29c9cf42bce40ee4413101269329972dc2748533a118422a72e14ef4aa69"
+    },
+    {
+      "id": "N2",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 52,
+      "line_end": 52,
+      "quote_sha256": "ef7d5363114e7398f4e80a5f3172927cc6673f0b7082accfd265a27b8f85a4b3"
+    },
+    {
+      "id": "N3",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 58,
+      "line_end": 58,
+      "quote_sha256": "574aaae3f93e746c056140a940cb4a78e5d59d739f4d7ce2a20f7cebbec7c2ca"
+    },
+    {
+      "id": "N4",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 77,
+      "line_end": 77,
+      "quote_sha256": "d9009eebb2e960df750e2b7ef8faca996d98427f3a266c3feede2ef82b6b1fff"
+    },
+    {
+      "id": "N5",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 83,
+      "line_end": 83,
+      "quote_sha256": "e7d1b18080ed72da821ec534bd2e063ffde3ceb1c1550887b4b0d6b3e7f162f1"
+    },
+    {
+      "id": "N6",
+      "source": "body",
+      "kind": "author hypothesis with conditional mathematical subclaims",
+      "line_start": 91,
+      "line_end": 91,
+      "quote_sha256": "e99dc63ed2ef419d5d8c38cbee28fbae07917b085b1b34f585907cd4d26dba5f"
+    },
+    {
+      "id": "B-joint-reading",
+      "source": "body",
+      "kind": "worked model",
+      "line_start": 125,
+      "line_end": 125,
+      "quote_sha256": "d2f4ab6cba128d1660e3e9932f8af6b65b9421f3a3333f4b33487992c39d0417"
+    },
+    {
+      "id": "N5-common-sets",
+      "source": "body",
+      "kind": "hypothesis part: common preservation",
+      "line_start": 85,
+      "line_end": 85,
+      "quote_sha256": "4218f7961ca77a9467ebae38c8e171b0cdb556d8d055aeb38b16d1a88d09205e"
+    },
+    {
+      "id": "N5-equal-sets",
+      "source": "body",
+      "kind": "stronger hypothesis: equal nonempty preservation sets",
+      "line_start": 87,
+      "line_end": 87,
+      "quote_sha256": "a9a470a5920e3dd53beb2e4c06b5bf261bb40bc7dc9a19a6dca15ce5e6cb5302"
+    },
+    {
+      "id": "B-foucault",
+      "source": "body",
+      "kind": "worked model",
+      "line_start": 67,
+      "line_end": 67,
+      "quote_sha256": "d5632e7f97ea522f141170ff294fb404d46bf8b54283ba024494d26c47883e8d"
+    },
+    {
+      "id": "B-paid",
+      "source": "body",
+      "kind": "worked model",
+      "line_start": 81,
+      "line_end": 81,
+      "quote_sha256": "2f1b7dda203f353d0a69342e1f716ce1b09dd12395e37c984abc4466fd6cdbe1"
+    },
+    {
+      "id": "B-moments",
+      "source": "body",
+      "kind": "worked model",
+      "line_start": 130,
+      "line_end": 130,
+      "quote_sha256": "f23df4ca2061a89a8fa63a02d2730383e1737e1eadfbec3ee393f0cbacaae8da"
+    }
+  ],
+  "checks": [
+    {
+      "check": "t_G01_join_complete_assignments",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "N1",
+        "C4",
+        "N6"
+      ],
+      "map_claim": "joint-obligations",
+      "population": "all binary edge relations on a chain; free variables and nullary relations"
+    },
+    {
+      "check": "t_G02_global_obstruction",
+      "role": "coverage",
+      "source_claims": [
+        "N1"
+      ],
+      "map_claim": "joint-obligations",
+      "population": "consistent/inconsistent triangle and all minimal conflict subsets"
+    },
+    {
+      "check": "t_G03_types_and_population",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "N1",
+        "C4",
+        "N6"
+      ],
+      "map_claim": "declared-carrier",
+      "population": "honest and ill-typed relation instances"
+    },
+    {
+      "check": "t_G04_proof_dependencies",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "C4",
+        "N6"
+      ],
+      "map_claim": "triad-finite-composition",
+      "population": "acyclic dependency graph, hypotheses, duplicates, missing nodes and cycles"
+    },
+    {
+      "check": "t_M01_fibres_and_decoders",
+      "role": "coverage",
+      "source_claims": [
+        "M1",
+        "C4"
+      ],
+      "map_claim": "M1-C4-fibre-criterion",
+      "population": "all 3-valued readings and Boolean verdicts; a consistent renaming of the observed values and a merging relabelling"
+    },
+    {
+      "check": "t_G05_projection_and_composition",
+      "role": "coverage",
+      "source_claims": [
+        "C4",
+        "N6"
+      ],
+      "map_claim": "triad-finite-composition",
+      "population": "joint witness/readout/verdict relation; edge/order/node transformations"
+    },
+    {
+      "check": "t_G07_higher_order_relations",
+      "role": "coverage",
+      "source_claims": [
+        "N1"
+      ],
+      "map_claim": "joint-obligations",
+      "population": "all 256 ternary binary-valued relations and their pairwise envelopes; parity hyperrelations through arity 9"
+    },
+    {
+      "check": "t_G08_joint_reading_and_counterexample",
+      "role": "coverage",
+      "source_claims": [
+        "M1",
+        "C4",
+        "B-joint-reading"
+      ],
+      "map_claim": "M1-C4-fibre-criterion",
+      "population": "all Boolean verdicts on four cases; marginal/joint/constant readings and exact ambiguity witnesses"
+    },
+    {
+      "check": "t_G06_map_contract_and_results",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "C4",
+        "N6"
+      ],
+      "map_claim": "triad-finite-composition",
+      "population": "map schema, exact check population, malformed sources, source-only prerequisites removed, detached or pointed at an absent identifier, reordered claim records; per-work populations: the declared name sets of exactly the three works, the requested selection compared with its declared set before any family runs, every selector (all works and each work) compared with its declared set within this family in every battery run (not under --only), --only with every declared name under every selector, unknown checks and works refused, reordered name sets and check records kept, and a declared name dropped or a foreign, repeated or unknown name added to any work refused; computed joint results and relation permutations"
+    },
+    {
+      "check": "t_M02_rooted_path_lifting",
+      "role": "coverage",
+      "source_claims": [
+        "M2"
+      ],
+      "map_claim": "M2-rooted-lift",
+      "population": "all directed source graphs, binary maps, roots and bounded paths"
+    },
+    {
+      "check": "t_M03_residual_and_budget",
+      "role": "coverage",
+      "source_claims": [
+        "M8"
+      ],
+      "map_claim": "M8-charged-derivative",
+      "population": "all cost prefixes/suffixes of length 3 over 0,1,2; budgets 0 through 6"
+    },
+    {
+      "check": "t_M04_periodic_history_boundary",
+      "role": "coverage",
+      "source_claims": [
+        "M3",
+        "M5"
+      ],
+      "map_claim": "M3-M5-finite-boundary-and-separation",
+      "population": "binary ultimately periodic words, period lengths 1 through 5 / 9: recurrence on three prefixes; P* on six prefixes against an independent walk of the lasso graph (first letter, prefix/tail junction, adjacency and wrap), with one period absorbed into the prefix and with a rotated tail and adjusted prefix; the pair of M5, 10..0 then silence against the same prefix then (01) repeated, through depth 49 / 89; no finite sweep establishes the topology theorem"
+    },
+    {
+      "check": "t_M05_full_restart_automaton",
+      "role": "coverage",
+      "source_claims": [
+        "M10"
+      ],
+      "map_claim": "M10-declared-automaton",
+      "population": "silence/request/block, both modes, all periodic inputs through period 7"
+    },
+    {
+      "check": "t_W01_linear_transfer",
+      "role": "coverage",
+      "source_claims": [
+        "C5"
+      ],
+      "map_claim": "C5-kernel-transfer",
+      "population": "all nonzero a and all r with coefficients -1,0,1; rational rescaling"
+    },
+    {
+      "check": "t_W02_restricted_witness_domains",
+      "role": "coverage",
+      "source_claims": [
+        "C5-restricted-W0"
+      ],
+      "map_claim": "C5-kernel-transfer",
+      "population": "all subsets of a-witnesses in {-1,0,1} squared; all r; adjoined origin"
+    },
+    {
+      "check": "t_W03_partial_and_total_loss",
+      "role": "coverage",
+      "source_claims": [
+        "C5-selected-loss",
+        "C5-global-loss"
+      ],
+      "map_claim": "C5-kernel-transfer",
+      "population": "all subsets of five specified witnesses W0 and their reversed orders; all integer r in [-2,2] squared; loss of all selected witnesses kept apart from the global case r = 0, which alone loses every a-witness of the grid; a nonzero r that loses the selected witness while another a-witness survives"
+    },
+    {
+      "check": "t_W04_composed_pullbacks",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "C5"
+      ],
+      "map_claim": "C5-kernel-transfer",
+      "population": "all pairs of 2x2 matrices over -1,0,1 and three named covectors"
+    },
+    {
+      "check": "t_G09_stepwise_and_terminal_preservation",
+      "role": "coverage",
+      "source_claims": [
+        "M-fixed-covector",
+        "C5-exact-scale-contrast"
+      ],
+      "map_claim": "two-step-exact-covector-preservation",
+      "population": "ordered pairs of 2x2 endomorphisms with entries in {0,1} (quick) or {-1,0,1} (full), three fixed covectors, a coordinate-changed cancellation witness and a singular first arrow"
+    },
+    {
+      "check": "t_M15_contact_membership",
+      "role": "coverage",
+      "source_claims": [
+        "M-contact",
+        "M1"
+      ],
+      "map_claim": "binary-contact-observation",
+      "population": "Two-node binary bond, wire and bias vary independently, then wire is calibrated to bond."
+    },
+    {
+      "check": "t_M16_interval_extension",
+      "role": "coverage",
+      "source_claims": [
+        "M-contact"
+      ],
+      "map_claim": "constant-section-extension",
+      "population": "All four binary endpoint pairs, each with either membership verdict; enumerate every constant section."
+    },
+    {
+      "check": "t_M17_common_family_transport",
+      "role": "coverage",
+      "source_claims": [
+        "M6"
+      ],
+      "map_claim": "M6-common-family-transport",
+      "population": "Two states realised by two deployments; the declared families of binary words of lengths 1 through 3 / 4 that start in state 0, admitted with at most one change of state; and the same families with one admitted target word that starts in state 1 added."
+    },
+    {
+      "check": "t_B08_foucault_readings",
+      "role": "coverage",
+      "source_claims": [
+        "B-foucault"
+      ],
+      "map_claim": "foucault-arrow-and-axis",
+      "population": "The declared closed-form law at four non-polar latitude sines (-1/2, 0, 1/3, 1/2), poles excluded: closed loops of -2 to 2 laps compared with the cap-area expression modulo one turn and with whole turns added; signed quarter-lap open arcs in the local tangent frame with three initial phases; oriented arrows and unoriented axes. Formula and readout checks, not a solution of the connection."
+    },
+    {
+      "check": "t_G10_shear_transport",
+      "role": "coverage",
+      "source_claims": [
+        "M-shear",
+        "M-norm"
+      ],
+      "map_claim": "additive-shear-transport",
+      "population": "Signed integer shears on basis and rational test vectors, additive composition, inverses and induced maximum norm."
+    },
+    {
+      "check": "t_G11_fixed_horizon_moments",
+      "role": "coverage",
+      "source_claims": [
+        "M-signs",
+        "M-mean",
+        "M-variance",
+        "B-moments"
+      ],
+      "map_claim": "fair-shear-moments",
+      "population": "Exact multiplicities and rational first and second central moments at every fixed horizon through 5 or 9, including a shared-sign comparison."
+    },
+    {
+      "check": "t_G12_paid_inverse_return",
+      "role": "coverage",
+      "source_claims": [
+        "M-account",
+        "M-charge",
+        "W-paid",
+        "B-paid"
+      ],
+      "map_claim": "charged-shear-return",
+      "population": "A shear and its inverse on the same account with positive equal charges, exact cap and refusal boundaries, including a stationary coordinate."
+    },
+    {
+      "check": "t_B01_partition_refinement",
+      "role": "coverage",
+      "source_claims": [
+        "N1"
+      ],
+      "map_claim": "N1-partition-refinement-interpretation",
+      "population": "all set partitions on carriers 1 through 6; all refinement pairs and bijective relabellings"
+    },
+    {
+      "check": "t_B02_borrowed_and_retained",
+      "role": "coverage",
+      "source_claims": [
+        "N2"
+      ],
+      "map_claim": "N2-fixed-channel-refinement",
+      "population": "all before/message and before/after partition pairs on four / five cases: the borrowed joint reading (V0,Z) as the meet of the two partitions, redundant and relabelled messages; the intrinsic hint-off after channel separately; no learning model, N2 stays open"
+    },
+    {
+      "check": "t_B03_contextual_cycles",
+      "role": "coverage",
+      "source_claims": [
+        "N1"
+      ],
+      "map_claim": "N1-gluing-countermodel",
+      "population": "binary parity cycles of length 3 through 8; every edge parity, and every edge deletion of the inconsistent cycles"
+    },
+    {
+      "check": "t_B04_exact_cochains",
+      "role": "coverage",
+      "source_claims": [
+        "N3"
+      ],
+      "map_claim": "N3-exact-cochain-periods",
+      "population": "all specified integer potentials through six vertices; all tetrahedron cochains and face subsets; unfilled square"
+    },
+    {
+      "check": "t_B05_preservation_class",
+      "role": "coverage",
+      "source_claims": [
+        "N5-common-sets",
+        "N5-equal-sets"
+      ],
+      "map_claim": "N5-finite-preservation-sets",
+      "population": "explicit covariant derivatives v'+Av for all 2x2 matrices over -1, 0, 1/2, 1 with five section values and three derivatives; an off-diagonal coupling; the diagonal class d+diag(a,b)dt on a rational slice with U=e1, W=e2 (unequal sets; equal empty sets without zero parameters) and U=e1+e2, W=e1-e2 (both sets {(0,0)}); three constant frame changes; undeclared shapes rejected; all subsets of {-1,0,1} squared as declared parameter classes. A finite test of joint preservation, never a proof of N5"
+    },
+    {
+      "check": "t_M06_prefix_reflection",
+      "role": "coverage",
+      "source_claims": [
+        "M7"
+      ],
+      "map_claim": "M7-prefix-reflection",
+      "population": "all bijections of binary words of length 2 / 3; asymmetric causal counterexample and malformed carriers"
+    },
+    {
+      "check": "t_M07_charged_language_derivatives",
+      "role": "coverage",
+      "source_claims": [
+        "M8"
+      ],
+      "map_claim": "M8-charged-derivative",
+      "population": "all sublanguages of 4 / 8 binary length-three words; nine price maps, five loads/capacities, fifteen prefixes; negative prices rejected"
+    },
+    {
+      "check": "t_M08_residual_keys",
+      "role": "coverage",
+      "source_claims": [
+        "M9"
+      ],
+      "map_claim": "M9-residual-key",
+      "population": "all languages on 2x2 / 3x3 prefix-suffix carriers; binary keys and enumerated key predicates; exact budget intervals"
+    },
+    {
+      "check": "t_M09_capability_channels",
+      "role": "coverage",
+      "source_claims": [
+        "M10"
+      ],
+      "map_claim": "M10-declared-automaton",
+      "population": "all three-input streams of lengths 0 through 4 / 7; two modes; singleton versus merged observation fibres"
+    },
+    {
+      "check": "t_M10_delay_and_floor",
+      "role": "coverage",
+      "source_claims": [
+        "M11",
+        "C2-M11"
+      ],
+      "map_claim": "M11-spending-the-budget",
+      "population": "the consecutive delayed constructor with 1,2,4 events and delays 0 through 128 / 4096, and no events; M11 on finite event words for delays through 16 / 128: silence against consecutive and spaced delayed spending under unit debits, with a dropped event and an event before the common prefix refused; explicit per-step debits against an independent count; rational floor bounds and debits 2^-k without a floor. M12 is only illustrated, for eternal silence; its arbitrary admitted set and every-prefix premise are not modelled; universal statements still require the text proofs"
+    },
+    {
+      "check": "t_M11_silent_and_driven_bounds",
+      "role": "coverage",
+      "source_claims": [
+        "M13"
+      ],
+      "map_claim": "M13-M14-bound",
+      "population": "all event subsets up to N=3 / 4, gaps D=2 / 4, horizon N(D+1)+2; independent generation by bounded gap sequences"
+    },
+    {
+      "check": "t_M12_witness_budget",
+      "role": "coverage",
+      "source_claims": [
+        "M15"
+      ],
+      "map_claim": "M15-single-witness-budget",
+      "population": "all integer witness words through length 4 / 6 over -2,-1,0,1,2; rational charges; geometric partial sums through 16 / 64; reordered charges; paid prefixes of all words through length 3 / 4 over -3/2,-1,-1/2,1/2,2 against an independent balance after every event, with floor 1/2 for (a); nonzero integer words for (c); alternating and constant witnesses held at a floor until refused; exact caps with a zero amplitude. M15(b) and the infinite limit of (d) remain analytic"
+    },
+    {
+      "check": "t_M13_frontier_costs",
+      "role": "coverage",
+      "source_claims": [
+        "M16"
+      ],
+      "map_claim": "M16-geometric-frontier",
+      "population": "four initial frontiers, four rational ratios, 32 / 128 return indices; independent balance differences; threshold and monotonicity cases"
+    },
+    {
+      "check": "t_B06_boundary_squared",
+      "role": "supporting apparatus",
+      "source_claims": [
+        "N3"
+      ],
+      "map_claim": "oriented-simplicial-boundary",
+      "population": "all ordered simplices on 5 / 7 vertices; nonzero boundary, exact boundary-square cancellation and malformed simplex"
+    },
+    {
+      "check": "t_B07_selected_and_full_state",
+      "role": "coverage",
+      "source_claims": [
+        "N4"
+      ],
+      "map_claim": "N4-selected-trace-countermodels",
+      "population": "all binary readings and pairs of paths of length 2 / 3 on four states, also with the states renamed and the reading transformed; equal and unequal selected traces and injective readings; finite path/readout countermodels, with no action protocol modelled, not evidence for N4"
+    },
+    {
+      "check": "t_M14_driven_completion",
+      "role": "coverage",
+      "source_claims": [
+        "M14"
+      ],
+      "map_claim": "M13-M14-bound",
+      "population": "all event subsets through N+1 events with N=3 / 4 and D=2 / 4; active start/restart obligations versus independently generated gap sequences"
+    }
+  ],
+  "companion_checks": [
+    {
+      "claim": "C2-ABA",
+      "file": "warrior-iii/harness.py",
+      "test": "t_W01_cancelled_seams"
+    }
+  ],
+  "limits": [
+    "Exact manuscript bytes and locator identity only; quotations do not prove the interpretation.",
+    "Finite families and rational countermodels do not prove universal or empirical claims.",
+    "A family with the role supporting apparatus names the results whose finite checks rest on it; it does not cover them.",
+    "M3/M5 periodic witnesses are illustrations, not an exhaustive topology or the complete smooth construction.",
+    "M4 has no numerical smooth-model test here; the unchanged Lean record and M-L10 state its formal coverage and exclusions.",
+    "M12 delayed examples do not exhaust arbitrary admissibility predicates.",
+    "M15 infinite convergence and M16 eventual exhaustion retain their analytic proof obligations.",
+    "C1 imported results are not established by these finite examples. Of C2, the finite checks instantiate the two proved particular cases (A,B,A in the Warrior companion, M11 in deep/M10); for the shells of The Crown no result is asserted.",
+    "N1 through N6 remain hypotheses about declared physical systems; finite countermodels constrain their interpretation.",
+    "Dependency extraction from prose and completeness of the declared graph remain human review obligations.",
+    "No V3 internals or physical Operator Zero are tested.",
+    "This release binds the three English manuscripts only. Russian translation-source anchors are excluded; they remain in the historical source index.",
+    "Claims of the other works are pinned by path, line and SHA-256 of the quoted span; their text is not carried in this package."
+  ],
+  "package": "warrior-iii"
+}
